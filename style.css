@@ -1,0 +1,43 @@
+#Bio {
+    background-color: #FEEFEE;
+    text-align: center;
+}
+
+#Intro {
+    background-color: #F48FB1;
+    text-align: center;
+}
+
+h1 {
+    font-size: 45px;
+    text-shadow: 2px 2px #880E4F;
+
+}
+
+#Summer {
+    width: 200px;
+    margin-bottom: 50px;
+    border-radius: 50%;
+}
+
+h2 {
+    font-size: 44px;
+}
+
+.menu {
+    list-style: none;
+    font-family: cursive;
+    float: right;
+    top: 10px;
+    right: 30px;
+    cursor: pointer;
+    color: crimson;
+}
+li{
+    display:inline;
+    font-family: Otomanopee One;
+}
+li:hover {
+    background-color: aquamarine;
+    color: palevioletred;
+}
